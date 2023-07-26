@@ -25,3 +25,5 @@ dosya_adi = input("Dosya adını girin (örneğin: kayit.wav): ")
 
 # Ses kaydetme işlemini gerçekleştirin
 ses_kaydet(kayit_suresi, dosya_adi)
+
+#gite ekledim
